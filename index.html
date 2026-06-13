@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daftar Peringkat JKT48 Request Hour 2026 — Setlist Best 40</title>
+  <meta name="description" content="Daftar lengkap peringkat Setlist Best 40 JKT48 Request Hour 2026. Lihat lagu favoritmu, filter berdasarkan member, dan jelajahi semua 40 setlist yang terpilih hasil voting fans.">
+  <meta name="keywords" content="JKT48, Request Hour 2026, Setlist Best 40, RH26, daftar peringkat, voting, lagu JKT48, member JKT48">
+  <meta name="author" content="Dandy">
+  <meta name="theme-color" content="#1a080b">
+  <link rel="canonical" href="https://dandy.github.io/rh26/">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://dandy.github.io/rh26/">
+  <meta property="og:title" content="Daftar Peringkat JKT48 Request Hour 2026 — Setlist Best 40">
+  <meta property="og:description" content="Daftar lengkap peringkat Setlist Best 40 JKT48 Request Hour 2026. Lihat lagu favoritmu, filter berdasarkan member, dan jelajahi semua 40 setlist.">
+  <meta property="og:image" content="https://rh26.jkt48.com/og-image.jpg">
+  <meta property="og:locale" content="id_ID">
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:url" content="https://dandy.github.io/rh26/">
+  <meta name="twitter:title" content="Daftar Peringkat JKT48 Request Hour 2026 — Setlist Best 40">
+  <meta name="twitter:description" content="Daftar lengkap peringkat Setlist Best 40 JKT48 Request Hour 2026. Filter by member, jelajahi 40 setlist terpilih.">
+  <meta name="twitter:image" content="https://rh26.jkt48.com/og-image.jpg">
+
+  <!-- Favicon (inline SVG) -->
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎵</text></svg>">
+
+  <!-- Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Daftar Peringkat JKT48 Request Hour 2026 — Setlist Best 40",
+    "description": "Daftar lengkap peringkat Setlist Best 40 JKT48 Request Hour 2026. Lihat lagu favoritmu, filter berdasarkan member, dan jelajahi semua 40 setlist yang terpilih hasil voting fans.",
+    "url": "https://dandy.github.io/rh26/",
+    "inLanguage": "id",
+    "author": {
+      "@type": "Person",
+      "name": "Dandy"
+    },
+    "about": {
+      "@type": "Event",
+      "name": "JKT48 Request Hour 2026",
+      "description": "Konser countdown JKT48 Request Hour 2026 Setlist Best 40",
+      "startDate": "2026-06-13",
+      "location": {
+        "@type": "Place",
+        "name": "Tennis Indoor Senayan",
+        "address": "Jakarta, Indonesia"
+      }
+    }
+  }
+  </script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Doto:wght@100..900&family=Plus+Jakarta+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="glow-right"></div>
+
+<div class="container">
+  <div class="header">
+    <div class="header-inner">
+      <span class="deco-left">♪ ♫ ♪</span>
+      <span class="deco-right">✦ ★ ✦</span>
+      <div class="pixel-badge">Request Hour 2026</div>
+      <h1>SETLIST BEST 40</h1>
+      <p class="subtitle">Daftar Peringkat</p>
+    </div>
+  </div>
+
+  <div class="neon-divider"></div>
+
+  <div class="stats-row">
+    <div class="stat-item">
+      <div class="stat-number">416</div>
+      <div class="stat-label">Songs Voted</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-number">40</div>
+      <div class="stat-label">Final Songs</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-number" id="memberCount">44</div>
+      <div class="stat-label">Members</div>
+    </div>
+  </div>
+
+  <div class="neon-divider"></div>
+
+  <div class="filter-section">
+    <div class="filter-header">
+      <span class="filter-label">Filter by Member</span>
+      <button class="clear-btn hidden" id="clearBtn" onclick="clearFilter()">✕ Clear</button>
+    </div>
+    <div class="search-wrapper">
+      <input type="text" class="search-box" id="searchBox" placeholder="Ketik nama member...">
+    </div>
+    <div class="member-chips" id="memberChips"></div>
+  </div>
+
+  <div class="ranking-list" id="rankingList"></div>
+
+  <div class="empty-state" id="emptyState">
+    <div class="emoji">🔍</div>
+    <p>Tidak ditemukan setlist dengan filter tersebut</p>
+  </div>
+
+  <div class="footer">
+    <div class="footer-divider"></div>
+    <p class="footer-text">Made with ❤️ by <strong>Dandy</strong></p>
+    <button class="footer-info-btn" onclick="document.getElementById('sourceModal').classList.add('show')">
+      <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
+      <span>Sumber</span>
+    </button>
+    <div class="footer-pixel-icons">♦ ♥ ♠ ♣ ★ ☆ ♪ ♫</div>
+  </div>
+
+  <!-- Source Modal -->
+  <div class="modal-overlay" id="sourceModal" onclick="if(event.target===this)this.classList.remove('show')">
+    <div class="modal-card">
+      <div class="modal-header">
+        <span class="modal-title">Sumber Data</span>
+        <button class="modal-close" onclick="document.getElementById('sourceModal').classList.remove('show')">
+          <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+        </button>
+      </div>
+      <div class="modal-body">
+        <a class="modal-link" href="https://x.com/48timee/status/2065732160716509645?s=20" target="_blank" rel="noopener">
+          <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+          <div class="modal-link-info">
+            <span class="modal-link-handle">@48timee</span>
+          </div>
+          <svg class="modal-link-arrow" viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2"><line x1="7" y1="17" x2="17" y2="7"/><polyline points="7 7 17 7 17 17"/></svg>
+        </a>
+        <a class="modal-link" href="https://x.com/48timee/status/2065788285826601263?s=20" target="_blank" rel="noopener">
+          <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+          <div class="modal-link-info">
+            <span class="modal-link-handle">@48timee</span>
+          </div>
+          <svg class="modal-link-arrow" viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2"><line x1="7" y1="17" x2="17" y2="7"/><polyline points="7 7 17 7 17 17"/></svg>
+        </a>
+        <a class="modal-link" href="https://x.com/AlvianB48/status/2065810435442622967?s=20" target="_blank" rel="noopener">
+          <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+          <div class="modal-link-info">
+            <span class="modal-link-handle">@AlvianB48</span>
+          </div>
+          <svg class="modal-link-arrow" viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2"><line x1="7" y1="17" x2="17" y2="7"/><polyline points="7 7 17 7 17 17"/></svg>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <script src="script.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,452 @@
+[
+  {
+    "rank": 1,
+    "title": "Idol no Yoake",
+    "idTitle": "Fajar Sang Idola",
+    "center": "Jemima",
+    "members": [
+      "Aralie",
+      "Alya",
+      "Lia",
+      "Lana",
+      "Fiony",
+      "Lily",
+      "Trisha",
+      "Ribka",
+      "Nala",
+      "Kimmy",
+      "Jemima",
+      "Mikaela"
+    ]
+  },
+  {
+    "rank": 2,
+    "title": "Oshibe to Meshibe to Yoru no Chouchou (New Era Ver.)",
+    "idTitle": "Benang Sari, Putik, dan Kupu-Kupu Malam",
+    "center": "Marsha",
+    "members": [
+      "Delynn",
+      "Freya",
+      "Marsha",
+      "Oline",
+      "Auwia"
+    ]
+  },
+  {
+    "rank": 3,
+    "title": "Wagamama na Nagareboshi",
+    "idTitle": "Si Bintang Jatuh yang Egois",
+    "members": [
+      "Indah",
+      "Ribka"
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "Plastic no Kuchibiru",
+    "idTitle": "Bibir dari Plastik",
+    "members": [
+      "Christy"
+    ]
+  },
+  {
+    "rank": 5,
+    "title": "Kareha no Station",
+    "idTitle": "Stasiun Daun Kering",
+    "members": [
+      "Aralie"
+    ]
+  },
+  {
+    "rank": 6,
+    "title": "Blue rose",
+    "idTitle": "Blue Rose",
+    "members": [
+      "Delynn",
+      "Oline",
+      "Ribka",
+      "Erine"
+    ]
+  },
+  {
+    "rank": 7,
+    "title": "Junai no Crescendo",
+    "idTitle": "Cinta Murni Crescendo",
+    "center": "Michie",
+    "members": [
+      "Gracie",
+      "Greesel",
+      "Michie"
+    ]
+  },
+  {
+    "rank": 8,
+    "title": "Cosmos no Kioku",
+    "idTitle": "Ingatan Kosmos",
+    "members": [
+      "Freya",
+      "Marsha",
+      "Fiony",
+      "Lily",
+      "Christy",
+      "Oniel",
+      "Gita",
+      "Eli",
+      "Indah",
+      "Lyn",
+      "Kathrina",
+      "Lulu"
+    ]
+  },
+  {
+    "rank": 9,
+    "title": "Yowamushi Kemushi",
+    "idTitle": "Si Ulat Penakut",
+    "members": [
+      "Greesel"
+    ]
+  },
+  {
+    "rank": 10,
+    "title": "Akai Pin Heel to Professor",
+    "idTitle": "Pin Heel Merah dan Profesor",
+    "members": [
+      "Muthe"
+    ],
+    "bd": [
+      "Fritzy",
+      "Nayla",
+      "Nachia",
+      "Kimmy"
+    ]
+  },
+  {
+    "rank": 11,
+    "title": "Ame No Pianist",
+    "idTitle": "Sang Pianis Hujan",
+    "center": "Cynthia",
+    "members": [
+      "Alya",
+      "Elin",
+      "Cynthia"
+    ]
+  },
+  {
+    "rank": 12,
+    "title": "Nusumareta Kuchibiru",
+    "idTitle": "Bibir yang Telah Dicuri",
+    "members": [
+      "Delynn",
+      "Lana",
+      "Erine",
+      "Cathy",
+      "Olla",
+      "Ella",
+      "Gracie",
+      "Greesel",
+      "Eli",
+      "Indah",
+      "Kathrina",
+      "Virgi"
+    ]
+  },
+  {
+    "rank": 13,
+    "title": "Hatsukoi Dorobou",
+    "idTitle": "Pencuri Cinta Pertama",
+    "center": "Ekin",
+    "members": [
+      "Ekin",
+      "Jemima",
+      "Intan"
+    ]
+  },
+  {
+    "rank": 14,
+    "title": "Oshibe to Meshibe to Yoru no Chouchou",
+    "idTitle": "Benang Sari, Putik, dan Kupu-Kupu Malam",
+    "members": [
+      "Aralie",
+      "Levi"
+    ]
+  },
+  {
+    "rank": 15,
+    "title": "Bird",
+    "idTitle": "Bird",
+    "center": "Lia",
+    "members": [
+      "Lia",
+      "Lana",
+      "Nayla"
+    ]
+  },
+  {
+    "rank": 16,
+    "title": "Renai Kinshi Jourei",
+    "idTitle": "Aturan Anti Cinta",
+    "center": "Kimmy",
+    "members": [
+      "Lana",
+      "Trisha",
+      "Kimmy"
+    ]
+  },
+  {
+    "rank": 17,
+    "title": "Dakishimeraretara",
+    "idTitle": "Jika Aku Dipelukmu",
+    "center": "Fiony",
+    "members": [
+      "Oniel",
+      "Fiony",
+      "Lulu"
+    ]
+  },
+  {
+    "rank": 18,
+    "title": "Yokaze no Shiwaza",
+    "idTitle": "Perbuatan Angin Malam",
+    "members": [
+      "Lulu"
+    ]
+  },
+  {
+    "rank": 19,
+    "title": "Kuchi Utsushi no Chocolate",
+    "idTitle": "Berikan Coklat dengan Bibir",
+    "center": "Raisha",
+    "members": [
+      "Delynn",
+      "Cynthia",
+      "Raisha"
+    ]
+  },
+  {
+    "rank": 20,
+    "title": "Boku to Juliette to Jet Coaster",
+    "idTitle": "Aku, Juliette dan Jet Coaster",
+    "center": "Oniel",
+    "members": [
+      "Oniel",
+      "Jessi",
+      "Nala"
+    ]
+  },
+  {
+    "rank": 21,
+    "title": "Futari wa Dekiteru",
+    "idTitle": "Kita Berdua Jadian",
+    "members": [
+      "Jessi",
+      "Kak Aiz"
+    ]
+  },
+  {
+    "rank": 22,
+    "title": "Tenshi no Shippo",
+    "idTitle": "Ekor Malaikat",
+    "center": "Greesel",
+    "members": [
+      "Ella",
+      "Gita",
+      "Greesel"
+    ]
+  },
+  {
+    "rank": 23,
+    "title": "Itoshiki Natasha",
+    "idTitle": "Natasha yang Kucinta",
+    "center": "Kathrina",
+    "members": [
+      "Aralie",
+      "Christy",
+      "Kathrina"
+    ]
+  },
+  {
+    "rank": 24,
+    "title": "Candy",
+    "idTitle": "Candy",
+    "center": "Anin",
+    "members": [
+      "Anin",
+      "Fritzy",
+      "Trisha"
+    ]
+  },
+  {
+    "rank": 25,
+    "title": "Ookami to Pride",
+    "idTitle": "Serigala dan Pride",
+    "members": [
+      "Fritzy",
+      "Lily"
+    ]
+  },
+  {
+    "rank": 26,
+    "title": "Gesu Na Yume",
+    "idTitle": "Mimpi yang Hina",
+    "members": [
+      "Dena",
+      "Daisy"
+    ]
+  },
+  {
+    "rank": 27,
+    "title": "Kimi to Boku no Kankei",
+    "idTitle": "Hubungan Kau dan Aku",
+    "members": [
+      "Elin",
+      "Fiony"
+    ]
+  },
+  {
+    "rank": 28,
+    "title": "13 Nin Shimai no Uta",
+    "idTitle": "Lagu 13 Bersaudari",
+    "center": "Olla",
+    "members": [
+      "Olla",
+      "Lyn",
+      "Nala"
+    ]
+  },
+  {
+    "rank": 29,
+    "title": "Menanti",
+    "idTitle": "Menanti",
+    "members": [
+      "Cathy"
+    ]
+  },
+  {
+    "rank": 30,
+    "title": "Kikyou",
+    "idTitle": "Pulang Kampung",
+    "center": "Gita",
+    "members": [
+      "Oniel",
+      "Gita",
+      "Indah"
+    ]
+  },
+  {
+    "rank": 31,
+    "title": "Shinkirou",
+    "idTitle": "Khayalan",
+    "members": [
+      "Ella",
+      "Lulu"
+    ]
+  },
+  {
+    "rank": 32,
+    "title": "Omoide Ijou",
+    "idTitle": "Lebih dari Memori",
+    "center": "Gracie",
+    "members": [
+      "Dena",
+      "Daisy",
+      "Gracie"
+    ]
+  },
+  {
+    "rank": 33,
+    "title": "Kinjirareta Futari",
+    "idTitle": "Dua Orang yang Terlarang",
+    "members": [
+      "Erine",
+      "Oline"
+    ]
+  },
+  {
+    "rank": 34,
+    "title": "Higurashi no Koi",
+    "idTitle": "Cinta Higurashi",
+    "members": [
+      "Nachia",
+      "Nala"
+    ]
+  },
+  {
+    "rank": 35,
+    "title": "Bokura no Eureka (New Era)",
+    "idTitle": "Eureka Milik Kita",
+    "members": [
+      "Levi"
+    ]
+  },
+  {
+    "rank": 36,
+    "title": "Ue Kara Freyana",
+    "idTitle": "Dari Atas Freyana",
+    "members": [
+      "Cathy",
+      "Cynthia",
+      "Fiony",
+      "Freya",
+      "Jessi",
+      "Marsha",
+      "Michie",
+      "Muthe",
+      "Nayla",
+      "Nachia",
+      "Raisha"
+    ]
+  },
+  {
+    "rank": 37,
+    "title": "Wink wa 3 Kai",
+    "idTitle": "Berkedip 3 Kali",
+    "members": [
+      "Virgi",
+      "Auwia",
+      "Giaa",
+      "Maira",
+      "Ekin",
+      "Jemima",
+      "Mikaela",
+      "Intan"
+    ]
+  },
+  {
+    "rank": 38,
+    "title": "Mushi no Ballad",
+    "idTitle": "Balada Serangga",
+    "members": [
+      "Lyn"
+    ]
+  },
+  {
+    "rank": 39,
+    "title": "Kataomoi no Karaage",
+    "idTitle": "Karaage Cinta yang Tak Berbalas",
+    "center": "Lia",
+    "members": [
+      "Lia",
+      "Cathy",
+      "Lily",
+      "Muthe"
+    ]
+  },
+  {
+    "rank": 40,
+    "title": "Suki! Suki! Skip!",
+    "idTitle": "Suka! Suka! Skip!",
+    "members": [
+      "Alya",
+      "Anin",
+      "Cathy",
+      "Elin",
+      "Cynthia",
+      "Dena",
+      "Daisy",
+      "Gendis",
+      "Gracie",
+      "Greesel",
+      "Michie"
+    ]
+  }
+]
